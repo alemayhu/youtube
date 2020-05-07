@@ -24,19 +24,19 @@
   ];
 </script>
 
-<div class="bg-blue-200 w-full h-screen flex flex-col">
-  <div class="align-center self-center py-4">
+<div class="flex flex-col w-full h-screen bg-blue-200">
+  <div class="self-center py-4 align-center">
     <div class="flex flex-col justify-center">
       <img
         alt="Avatar of Alexander Alemayhu"
-        class="w-16 rounded self-center"
+        class="self-center w-16 rounded"
         src="/avatar/portrait.jpeg" />
     </div>
     <div>
       <a class="text-white" href="https://twitter.com/aalemayhu">@aalemayhu</a>
     </div>
   </div>
-  <div class="text-gray-700 text-center">
+  <div class="text-center text-gray-700">
     <p>
       Below are links to my various YouTube channels, click on the red button to
       subscribe!
@@ -44,7 +44,7 @@
   </div>
   <ul class="flex flex-col">
     {#each data as channel}
-      <li class=" self-center justify-center w-4/5">
+      <li class="self-center justify-center w-4/5 ">
         <ChannelRow {...channel} />
       </li>
     {/each}
