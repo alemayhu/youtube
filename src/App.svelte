@@ -36,7 +36,7 @@
       <a class="text-white" href="https://twitter.com/aalemayhu">@aalemayhu</a>
     </div>
   </div>
-  <div class="text-center text-gray-700">
+  <div class="mx-2 text-center text-gray-700">
     <p>
       Below are links to my various YouTube channels, click on the red button to
       subscribe!
