@@ -1,50 +1,18 @@
-# Svelte Tailwind Template
+# yt.alemayhu.com
 
+A static website to list my YouTube channels.
+
+This project was created to for experimenting with Tailwind CSS.
+
+I ended up using Svelte for convenience since I found a project template already wired up and ready to use.
+
+This project was bootstraped with https://github.com/muhajirdev/svelte-tailwind-template
 ## Get started
 
 ```bash
-git clone https://github.com/muhajirdev/svelte-tailwind-template
-cd svelte-tailwind-template
-npm install
+yarn # npm install
+yarn dev # npm run dev
 ```
 
-...then start [Rollup](https://rollupjs.org):
-
-```bash
-npm run dev
-```
-
-Navigate to [localhost:5000](http://localhost:5000). You should see your app running. Edit a component file in `src`, save it, and reload the page to see your changes.
-
-## Deploying to the web
-
-### With [now](https://zeit.co/now)
-
-Install `now` if you haven't already:
-
-```bash
-npm install -g now
-```
-
-Then, from within your project folder:
-
-```bash
-now
-```
-
-As an alternative, use the [Now desktop client](https://zeit.co/download) and simply drag the unzipped project folder to the taskbar icon.
-
-### With [surge](https://surge.sh/)
-
-Install `surge` if you haven't already:
-
-```bash
-npm install -g surge
-```
-
-Then, from within your project folder:
-
-```bash
-npm run build
-surge public
-```
+Navigate to [localhost:5000](http://localhost:5000). You should see the site running. Edit a  file in `src`, save it, and voilà the page reloads to show
+you the changes.
