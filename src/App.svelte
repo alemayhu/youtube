@@ -29,10 +29,10 @@
     <div class="flex flex-col justify-center">
       <img
         alt="Avatar of Alexander Alemayhu"
-        class="self-center w-16 rounded"
-        src="/avatar/portrait.jpeg" />
+        class="self-center w-16 rounded-full"
+        src="/avatar/portrait.png" />
     </div>
-    <div>
+    <div class="py-2">
       <a class="text-white" href="https://twitter.com/aalemayhu">@aalemayhu</a>
     </div>
   </div>
