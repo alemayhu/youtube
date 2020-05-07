@@ -1,5 +1,7 @@
 # yt.alemayhu.com
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e87f5b3b-e16e-4cd9-b89d-dbc1801c1bf6/deploy-status)](https://app.netlify.com/sites/youtube-alemayhu/deploys)
+
 A static website to list my YouTube channels.
 
 This project was created to for experimenting with Tailwind CSS.
