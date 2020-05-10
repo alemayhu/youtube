@@ -12,7 +12,7 @@
   <div class="self-center flex-grow w-full p-4 text-xs sm:text-xl sm:p-2">{description}</div>
   <div class="self-center m-2">
     <a
-      class="p-2 text-white bg-red-600 rounded"
+      class="p-2 text-white bg-red-600 rounded hover:bg-red-900"
       href="{link}?sub_confirmation=1">
       Subscribe
     </a>
