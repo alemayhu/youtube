@@ -5,7 +5,7 @@
     {
       name: 'Alexander Alemayhu',
       thumbnail: '/avatar/aa.jpeg',
-      description: 'Personal channel where I share productivity stuff.',
+      description: 'A personal channel where I share productivity stuff related to ⭐️ Anki and 🄽 Notion.',
       link: 'https://www.youtube.com/channel/UCVuQ9KPLbb3bfhm-ZYsq-bQ'
     },
     {
@@ -18,7 +18,7 @@
     {
       name: 'WeCode',
       thumbnail: '/avatar/aa-code.png',
-      description: 'Livestreaming coding projects for fun',
+      description: 'Livestreaming coding projects for fun. This channel is no longer maintained and ARCHIVED. You can still watch old videos 😊',
       link: 'https://www.youtube.com/channel/UCumJa0eRO9_xtEsoAt3UCkQ'
     }
   ];
