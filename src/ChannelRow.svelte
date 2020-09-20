@@ -7,7 +7,7 @@
 
 <div class="flex items-center p-4 m-2 bg-gray-100 rounded sm:items-start">
   <div class="w-1/4">
-    <img width="100px" class="rounded" alt="thumbnail for channel {name}" src={thumbnail} />
+    <a href="{link}"><img width="100px" class="rounded" alt="thumbnail for channel {name}" src={thumbnail} /></a>
   </div>
   <div class="self-center flex-grow w-full p-4 text-xs sm:text-xl sm:p-2">{description}</div>
   <div class="self-center m-2">
