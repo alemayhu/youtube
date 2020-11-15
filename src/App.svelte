@@ -6,7 +6,7 @@
       name: 'Alexander Alemayhu',
       thumbnail: '/avatar/aa.jpeg',
       description: 'A personal channel where I share productivity stuff related to ⭐️ Anki and 🄽 Notion.',
-      link: 'https://www.youtube.com/channel/UCVuQ9KPLbb3bfhm-ZYsq-bQ'
+      link: 'https://youtube.com/c/alexanderalemayhu'
     },
     {
       name: 'Japanese with Alexander',
@@ -16,10 +16,10 @@
       link: 'https://www.youtube.com/channel/UCpqr_S8LyUfntQ3DXx96BdA'
     },
     {
-      name: 'WeCode',
-      thumbnail: '/avatar/aa-code.png',
-      description: 'Livestreaming coding projects for fun. This channel is no longer maintained and ARCHIVED. You can still watch old videos 😊',
-      link: 'https://www.youtube.com/channel/UCumJa0eRO9_xtEsoAt3UCkQ'
+      name: 'Alemayhu VODs',
+      thumbnail: '/avatar/portrait_1.jpeg',
+      description: 'Hour long exports from my Twitch channel 😊',
+      link: 'https://www.youtube.com/c/AlemayhuVODS'
     }
   ];
 </script>
