@@ -7,14 +7,7 @@
       thumbnail: '/avatar/aa.jpeg',
       description: 'A personal channel where I share productivity stuff related to ⭐️ Anki and 🄽 Notion.',
       link: 'https://youtube.com/c/alexanderalemayhu'
-    },
-    {
-      name: 'Japanese with Alexander',
-      thumbnail: '/avatar/aa-jp.jpeg',
-      description:
-        'A place for me to document my journey learning Japanese and share what I learn with others.',
-      link: 'https://www.youtube.com/channel/UCpqr_S8LyUfntQ3DXx96BdA'
-    },
+    }
     {
       name: 'Alemayhu VODs',
       thumbnail: '/avatar/portrait_1.jpeg',
