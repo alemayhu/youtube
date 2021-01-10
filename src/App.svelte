@@ -7,7 +7,7 @@
       thumbnail: '/avatar/aa.jpeg',
       description: 'A personal channel where I share productivity stuff related to ⭐️ Anki and 🄽 Notion.',
       link: 'https://youtube.com/c/alexanderalemayhu'
-    }
+    },
     {
       name: 'Alemayhu VODs',
       thumbnail: '/avatar/portrait_1.jpeg',
